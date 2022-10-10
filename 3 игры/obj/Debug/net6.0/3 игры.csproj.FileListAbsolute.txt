@@ -1,0 +1,15 @@
+D:\Учёба\Практическая\3 игры\bin\Debug\net6.0\3 игры.exe
+D:\Учёба\Практическая\3 игры\bin\Debug\net6.0\3 игры.deps.json
+D:\Учёба\Практическая\3 игры\bin\Debug\net6.0\3 игры.runtimeconfig.json
+D:\Учёба\Практическая\3 игры\bin\Debug\net6.0\3 игры.dll
+D:\Учёба\Практическая\3 игры\bin\Debug\net6.0\3 игры.pdb
+D:\Учёба\Практическая\3 игры\obj\Debug\net6.0\3 игры.csproj.AssemblyReference.cache
+D:\Учёба\Практическая\3 игры\obj\Debug\net6.0\3 игры.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Практическая\3 игры\obj\Debug\net6.0\3 игры.AssemblyInfoInputs.cache
+D:\Учёба\Практическая\3 игры\obj\Debug\net6.0\3 игры.AssemblyInfo.cs
+D:\Учёба\Практическая\3 игры\obj\Debug\net6.0\3 игры.csproj.CoreCompileInputs.cache
+D:\Учёба\Практическая\3 игры\obj\Debug\net6.0\3 игры.dll
+D:\Учёба\Практическая\3 игры\obj\Debug\net6.0\refint\3 игры.dll
+D:\Учёба\Практическая\3 игры\obj\Debug\net6.0\3 игры.pdb
+D:\Учёба\Практическая\3 игры\obj\Debug\net6.0\3 игры.genruntimeconfig.cache
+D:\Учёба\Практическая\3 игры\obj\Debug\net6.0\ref\3 игры.dll
